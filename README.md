@@ -9,10 +9,6 @@ The Math Database Explorer is a Streamlit-based application designed to help use
 ## Features
 
 - **Browse Mathematical Entities**: View and filter concepts, theorems, proofs, and other mathematical entities.
-- **Explore Relationships**: Discover connections between mathematical objects.
-- **Search Tags**: Find entities by associated keywords.
-- **Detailed View**: Examine comprehensive information about any mathematical entity.
-- **LaTeX Support**: View mathematical notation properly formatted.
 
 ## Database Structure
 
