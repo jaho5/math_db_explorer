@@ -1,0 +1,60 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
+# Streamlit specific
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Data files (customize based on your project)
+*.csv
+*.xlsx
+*.json
+!data/sample_data.csv  # Keep sample data if needed
+
+# Development and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Local development configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (if applicable)
+*.h5
+*.pkl
+*.joblib
+
+# Streamlit deployment artifacts
+.streamlit-data/
